@@ -1,5 +1,5 @@
 
-# bharath_s_application14
+# Bharath's Agro Application
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
